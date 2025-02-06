@@ -6,7 +6,7 @@
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
-      src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png"
+      src="https://avatars.githubusercontent.com/u/187172337?v=4"
     />
     <br />
     <br />
