@@ -1,0 +1,1 @@
+# Azure-CI-CD-GenAI-Sample-Static-App
